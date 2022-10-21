@@ -5,7 +5,7 @@
 ## How to check the website
 <ol>
   <li>Download the code and directly open the index.html file with your web browser, Chrome / Edge</li>
-  <li>Or visiting the web: https://gitwong997.github.io/WebmasterChallenge</li>
+  <li>Or visiting the web: https://gitwong997.github.io/</li>
 </ol>
 
 ## About The Project
