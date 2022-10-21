@@ -24,8 +24,8 @@ This Website has:
 ## Contact
 <ul>
   <li>Samuel Wang - spaemtuerl@gmail.com</li>
-  <li>Linkedin : [https://www.linkedin.com/in/samuelwang04/](https://www.linkedin.com/in/samuelwang04/)</li>
-  <li>Project Link: [https://github.com/GitWong997/Ecommerce-Sanity-Stripe](https://github.com/GitWong997/Ecommerce-Sanity-Stripe)</li>
+  <li>Linkedin : https://www.linkedin.com/in/samuelwang04</li>
+  <li>Project Link: https://github.com/GitWong997/Ecommerce-Sanity-Stripe</li>
 
 
 
